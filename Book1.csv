@@ -1,0 +1,237 @@
+S_name,,med_name,generic_name,batch_id,manufacture_date,Quantity,expiry_dat,MRP,Pharmacy_loc
+Abbott India Ltd,,biotin2,biotin2,d1002,Jun-22,55,May-25,10,saltlake
+Abbott India Ltd,,calpol,calpol,d20002,Jun-21,150,May-25,12,saltlake
+Abbott India Ltd,,paracetamol,paracetamo,d1235,Jun-22,60,May-25,13,saltlake
+Abbott India Ltd,,zincovid,zincovid,d12356,May-22,90,May-25,15,saltlake
+Abbott India Ltd,,vitaminc,vitaminc,Vt0120,May-22,125,May-26,16,saltlake
+Abbott India Ltd,,rantac,rantac,VR0012,Sep-21,150,May-26,14,saltlake
+Abbott India Ltd,,azithral,azithral,Aral005,Aug-21,100,Sep-29,8,saltlake
+cipla Limited,,omez,omez,mez012,Apr-21,125,May-23,15,saltlake
+cipla Limited,,multivitamin,multivitamin,mu20ul,Sep-21,90,May-25,14,saltlake
+Sun Pharma,,Acetaminophen,Acetaminophen,ACE0021,Jun-22,150,May-25,10,saltlake
+Sun Pharma,,Amitriptyline,Amitriptyline,AMIT0021,Jun-21,100,May-25,12,saltlake
+Sun Pharma,,Amlodipine,Amlodipine,AMLO0021,Jun-22,50,May-25,13,saltlake
+Sun Pharma,,Amoxicillin,Amoxicillin,AMO0021,May-22,80,May-25,15,saltlake
+Sun Pharma,,Ativan,Ativan,ATIVA0021,May-22,50,May-26,16,saltlake
+Sun Pharma,,Atorvastatin,Atorvastatin,ATORVA02,Sep-21,150,May-26,14,saltlake
+Sun Pharma,,Benzonatate,Benzonatate,BENZO00C,Aug-21,120,Sep-29,8,saltlake
+Sun Pharma,,Brilinta,Brilinta,BRILI00A,Apr-21,140,May-23,15,saltlake
+Sun Pharma,,Bunavail,Bunavail,BUNA00L,Sep-21,150,May-25,14,saltlake
+Emcure Pharmaceuticals,,Buprenorphine,Buprenorphine,BUPRE00R,Jun-22,145,May-25,10,saltlake
+Emcure Pharmaceuticals,,Cephalexin,Cephalexin,CEPH00I,Jun-21,207,May-25,12,saltlake
+Emcure Pharmaceuticals,,Ciprofloxacin,Ciprofloxacin,CIPRO00X,Jun-22,150,May-25,13,saltlake
+Emcure Pharmaceuticals,,Citalopram,Citalopram,CITAL002,May-22,100,May-25,15,saltlake
+Emcure Pharmaceuticals,,Clindamycin,Clindamycin,CLIN00Y,May-22,50,May-26,16,saltlake
+Emcure Pharmaceuticals,,Clonazepam,Clonazepam,CLON00P,Sep-21,80,May-26,14,saltlake
+Emcure Pharmaceuticals,,Cyclobenzaprine,Cyclobenzaprine,CYCL00Z,Aug-21,50,Sep-29,8,saltlake
+Emcure Pharmaceuticals,,Cymbalta,Cymbalta,CYMB00A,Apr-21,150,May-23,15,saltlake
+Emcure Pharmaceuticals,,Doxycycline,Doxycycline,DOX022Y,Sep-21,120,May-25,14,saltlake
+Emcure Pharmaceuticals,,Dupixent,Dupixent,DUP08IX,Jun-22,140,May-25,10,saltlake
+Emcure Pharmaceuticals,,Entresto,Entresto,ENT00O,Jun-21,150,May-25,12,saltlake
+Dr. Reddy Laboratories,,Entyvio,Entyvio,ENTY0I,Jun-22,145,May-25,13,saltlake
+Dr. Reddy Laboratories,,Farxiga,Farxiga,FARX00A,May-22,207,May-25,15,saltlake
+Dr. Reddy Laboratories,,Gabapentin,Gabapentin,GABA00T,May-22,150,May-26,16,saltlake
+Dr. Reddy Laboratories,,Gilenya,Gilenya,GILE00A,Sep-21,100,May-26,14,saltlake
+Dr. Reddy Laboratories,,Humira,Humira,HUM00A,Aug-21,50,Sep-29,8,saltlake
+Dr. Reddy Laboratories,,Ibuprofen,Ibuprofen,IBU08P,Apr-21,80,May-23,15,saltlake
+Dr. Reddy Laboratories,,Imbruvica,Imbruvica,IMB00A,Sep-21,50,May-25,14,saltlake
+Dr. Reddy Laboratories,,Invokana,Invokana,INV02A,Jun-22,150,May-25,10,saltlake
+Dr. Reddy Laboratories,,Januvia,Januvia,JAN09A,Jun-21,120,May-25,12,saltlake
+Glenmark Pharma,,Jardiance,Jardiance,JARD09E,Jun-22,140,May-25,13,saltlake
+Glenmark Pharma,,Kevzara,Kevzara,KEV08A,May-22,150,May-25,15,saltlake
+Glenmark Pharma,,Lexapro,Lexapro,LEXA00R,May-22,145,May-26,16,saltlake
+Glenmark Pharma,,Lisinopril,Lisinopril,LISI00L,Sep-21,207,May-26,14,saltlake
+Glenmark Pharma,,Lofexidine,Lofexidine,LOFE009D,Aug-21,150,Sep-29,8,saltlake
+Glenmark Pharma,,Lyrica,Lyrica,LYRI09A,Apr-21,100,May-23,15,saltlake
+Glenmark Pharma,,Melatonin,Melatonin,MELA00R,Sep-21,50,May-25,14,saltlake
+Glenmark Pharma,,Meloxicam,Meloxicam,MELO00R,Jun-22,80,May-25,4,saltlake
+Glenmark Pharma,,Metformin,Metformin,MET00I,Jun-21,50,May-25,10,saltlake
+Glenmark Pharma,,Naloxone,Naloxone,NALO00N,Jun-22,150,May-25,12,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Naltrexone,Naltrexone,NALT00P,May-22,120,May-25,13,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Omeprazole,Omeprazole,OME08Z,May-22,140,May-26,15,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Onpattro,Onpattro,ONPA89R,Sep-21,150,May-26,16,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Otezla,Otezla,OTE8LA,Aug-21,145,Sep-29,14,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Ozempic,Ozempic,OZE09C,Apr-21,45,May-23,8,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Pantoprazole,Pantoprazole,PAN87P,Sep-21,80,May-25,15,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Prednisone,Prednisone,PRE078S,Jun-22,79,May-25,14,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Probuphine,Probuphine,PROB09,Jun-21,95,May-25,20,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Rybelsus,Rybelsus,RYBE00S,Jun-22,98,May-25,15,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Tramadol,Tramadol,TRA89L,May-22,97,May-25,12,saltlake
+Bengal Chemical & Pharmaceutical Ltd,,Trazodone,Trazodone,TRAZ09E,May-22,90,May-26,16,saltlake
+Abbott India Ltd,,biotin2,biotin2,d1002,Jun-22,55,May-25,10,Santragachi
+Abbott India Ltd,,calpol,calpol,d20002,Jun-21,150,May-25,12,Santragachi
+Abbott India Ltd,,paracetamol,paracetamo,d1235,Jun-22,60,May-25,13,Santragachi
+Abbott India Ltd,,zincovid,zincovid,d12356,May-22,90,May-25,15,Santragachi
+Abbott India Ltd,,vitaminc,vitaminc,Vt0120,May-22,125,May-26,16,Santragachi
+Abbott India Ltd,,rantac,rantac,VR0012,Sep-21,150,May-26,14,Santragachi
+Abbott India Ltd,,azithral,azithral,Aral005,Aug-21,100,Sep-29,8,Santragachi
+cipla Limited,,omez,omez,mez012,Apr-21,125,May-23,15,Santragachi
+cipla Limited,,multivitamin,multivitamin,mu20ul,Sep-21,90,May-25,14,Santragachi
+Sun Pharma,,Acetaminophen,Acetaminophen,ACE0021,Jun-22,150,May-25,10,Santragachi
+Sun Pharma,,Amitriptyline,Amitriptyline,AMIT0021,Jun-21,100,May-25,12,Santragachi
+Sun Pharma,,Amlodipine,Amlodipine,AMLO0021,Jun-22,50,May-25,13,Santragachi
+Sun Pharma,,Amoxicillin,Amoxicillin,AMO0021,May-22,80,May-25,15,Santragachi
+Sun Pharma,,Ativan,Ativan,ATIVA0021,May-22,50,May-26,16,Santragachi
+Sun Pharma,,Atorvastatin,Atorvastatin,ATORVA02,Sep-21,150,May-26,14,Santragachi
+Sun Pharma,,Benzonatate,Benzonatate,BENZO00C,Aug-21,120,Sep-29,8,Santragachi
+Sun Pharma,,Brilinta,Brilinta,BRILI00A,Apr-21,140,May-23,15,Santragachi
+Sun Pharma,,Bunavail,Bunavail,BUNA00L,Sep-21,150,May-25,14,Santragachi
+Emcure Pharmaceuticals,,Buprenorphine,Buprenorphine,BUPRE00R,Jun-22,145,May-25,10,Santragachi
+Emcure Pharmaceuticals,,Cephalexin,Cephalexin,CEPH00I,Jun-21,207,May-25,12,Santragachi
+Emcure Pharmaceuticals,,Ciprofloxacin,Ciprofloxacin,CIPRO00X,Jun-22,150,May-25,13,Santragachi
+Emcure Pharmaceuticals,,Citalopram,Citalopram,CITAL002,May-22,100,May-25,15,Santragachi
+Emcure Pharmaceuticals,,Clindamycin,Clindamycin,CLIN00Y,May-22,50,May-26,16,Santragachi
+Emcure Pharmaceuticals,,Clonazepam,Clonazepam,CLON00P,Sep-21,80,May-26,14,Santragachi
+Emcure Pharmaceuticals,,Cyclobenzaprine,Cyclobenzaprine,CYCL00Z,Aug-21,50,Sep-29,8,Santragachi
+Emcure Pharmaceuticals,,Cymbalta,Cymbalta,CYMB00A,Apr-21,150,May-23,15,Santragachi
+Emcure Pharmaceuticals,,Doxycycline,Doxycycline,DOX022Y,Sep-21,120,May-25,14,Santragachi
+Emcure Pharmaceuticals,,Dupixent,Dupixent,DUP08IX,Jun-22,140,May-25,10,Santragachi
+Emcure Pharmaceuticals,,Entresto,Entresto,ENT00O,Jun-21,150,May-25,12,Santragachi
+Dr. Reddy Laboratories,,Entyvio,Entyvio,ENTY0I,Jun-22,145,May-25,13,Santragachi
+Dr. Reddy Laboratories,,Farxiga,Farxiga,FARX00A,May-22,207,May-25,15,Santragachi
+Dr. Reddy Laboratories,,Gabapentin,Gabapentin,GABA00T,May-22,150,May-26,16,Santragachi
+Dr. Reddy Laboratories,,Gilenya,Gilenya,GILE00A,Sep-21,100,May-26,14,Santragachi
+Dr. Reddy Laboratories,,Humira,Humira,HUM00A,Aug-21,50,Sep-29,8,Santragachi
+Dr. Reddy Laboratories,,Ibuprofen,Ibuprofen,IBU08P,Apr-21,80,May-23,15,Santragachi
+Dr. Reddy Laboratories,,Imbruvica,Imbruvica,IMB00A,Sep-21,50,May-25,14,Santragachi
+Dr. Reddy Laboratories,,Invokana,Invokana,INV02A,Jun-22,150,May-25,10,Santragachi
+Dr. Reddy Laboratories,,Januvia,Januvia,JAN09A,Jun-21,120,May-25,12,Santragachi
+Glenmark Pharma,,Jardiance,Jardiance,JARD09E,Jun-22,140,May-25,13,Santragachi
+Glenmark Pharma,,Kevzara,Kevzara,KEV08A,May-22,150,May-25,15,Santragachi
+Glenmark Pharma,,Lexapro,Lexapro,LEXA00R,May-22,145,May-26,16,Santragachi
+Glenmark Pharma,,Lisinopril,Lisinopril,LISI00L,Sep-21,207,May-26,14,Santragachi
+Glenmark Pharma,,Lofexidine,Lofexidine,LOFE009D,Aug-21,150,Sep-29,8,Santragachi
+Glenmark Pharma,,Lyrica,Lyrica,LYRI09A,Apr-21,100,May-23,15,Santragachi
+Glenmark Pharma,,Melatonin,Melatonin,MELA00R,Sep-21,50,May-25,14,Santragachi
+Glenmark Pharma,,Meloxicam,Meloxicam,MELO00R,Jun-22,80,May-25,4,Santragachi
+Glenmark Pharma,,Metformin,Metformin,MET00I,Jun-21,50,May-25,10,Santragachi
+Glenmark Pharma,,Naloxone,Naloxone,NALO00N,Jun-22,150,May-25,12,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Naltrexone,Naltrexone,NALT00P,May-22,120,May-25,13,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Omeprazole,Omeprazole,OME08Z,May-22,140,May-26,15,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Onpattro,Onpattro,ONPA89R,Sep-21,150,May-26,16,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Otezla,Otezla,OTE8LA,Aug-21,145,Sep-29,14,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Ozempic,Ozempic,OZE09C,Apr-21,45,May-23,8,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Pantoprazole,Pantoprazole,PAN87P,Sep-21,80,May-25,15,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Prednisone,Prednisone,PRE078S,Jun-22,79,May-25,14,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Probuphine,Probuphine,PROB09,Jun-21,95,May-25,20,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Rybelsus,Rybelsus,RYBE00S,Jun-22,98,May-25,15,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Tramadol,Tramadol,TRA89L,May-22,97,May-25,12,Santragachi
+Bengal Chemical & Pharmaceutical Ltd,,Trazodone,Trazodone,TRAZ09E,May-22,90,May-26,16,Santragachi
+Abbott India Ltd,,biotin2,biotin2,d1002,Jun-22,55,May-25,10,Rajarhat
+Abbott India Ltd,,calpol,calpol,d20002,Jun-21,150,May-25,12,Rajarhat
+Abbott India Ltd,,paracetamol,paracetamo,d1235,Jun-22,60,May-25,13,Rajarhat
+Abbott India Ltd,,zincovid,zincovid,d12356,May-22,90,May-25,15,Rajarhat
+Abbott India Ltd,,vitaminc,vitaminc,Vt0120,May-22,125,May-26,16,Rajarhat
+Abbott India Ltd,,rantac,rantac,VR0012,Sep-21,150,May-26,14,Rajarhat
+Abbott India Ltd,,azithral,azithral,Aral005,Aug-21,100,Sep-29,8,Rajarhat
+cipla Limited,,omez,omez,mez012,Apr-21,125,May-23,15,Rajarhat
+cipla Limited,,multivitamin,multivitamin,mu20ul,Sep-21,90,May-25,14,Rajarhat
+Sun Pharma,,Acetaminophen,Acetaminophen,ACE0021,Jun-22,150,May-25,10,Rajarhat
+Sun Pharma,,Amitriptyline,Amitriptyline,AMIT0021,Jun-21,100,May-25,12,Rajarhat
+Sun Pharma,,Amlodipine,Amlodipine,AMLO0021,Jun-22,50,May-25,13,Rajarhat
+Sun Pharma,,Amoxicillin,Amoxicillin,AMO0021,May-22,80,May-25,15,Rajarhat
+Sun Pharma,,Ativan,Ativan,ATIVA0021,May-22,50,May-26,16,Rajarhat
+Sun Pharma,,Atorvastatin,Atorvastatin,ATORVA02,Sep-21,150,May-26,14,Rajarhat
+Sun Pharma,,Benzonatate,Benzonatate,BENZO00C,Aug-21,120,Sep-29,8,Rajarhat
+Sun Pharma,,Brilinta,Brilinta,BRILI00A,Apr-21,140,May-23,15,Rajarhat
+Sun Pharma,,Bunavail,Bunavail,BUNA00L,Sep-21,150,May-25,14,Rajarhat
+Emcure Pharmaceuticals,,Buprenorphine,Buprenorphine,BUPRE00R,Jun-22,145,May-25,10,Rajarhat
+Emcure Pharmaceuticals,,Cephalexin,Cephalexin,CEPH00I,Jun-21,207,May-25,12,Rajarhat
+Emcure Pharmaceuticals,,Ciprofloxacin,Ciprofloxacin,CIPRO00X,Jun-22,150,May-25,13,Rajarhat
+Emcure Pharmaceuticals,,Citalopram,Citalopram,CITAL002,May-22,100,May-25,15,Rajarhat
+Emcure Pharmaceuticals,,Clindamycin,Clindamycin,CLIN00Y,May-22,50,May-26,16,Rajarhat
+Emcure Pharmaceuticals,,Clonazepam,Clonazepam,CLON00P,Sep-21,80,May-26,14,Rajarhat
+Emcure Pharmaceuticals,,Cyclobenzaprine,Cyclobenzaprine,CYCL00Z,Aug-21,50,Sep-29,8,Rajarhat
+Emcure Pharmaceuticals,,Cymbalta,Cymbalta,CYMB00A,Apr-21,150,May-23,15,Rajarhat
+Emcure Pharmaceuticals,,Doxycycline,Doxycycline,DOX022Y,Sep-21,120,May-25,14,Rajarhat
+Emcure Pharmaceuticals,,Dupixent,Dupixent,DUP08IX,Jun-22,140,May-25,10,Rajarhat
+Emcure Pharmaceuticals,,Entresto,Entresto,ENT00O,Jun-21,150,May-25,12,Rajarhat
+Dr. Reddy Laboratories,,Entyvio,Entyvio,ENTY0I,Jun-22,145,May-25,13,Rajarhat
+Dr. Reddy Laboratories,,Farxiga,Farxiga,FARX00A,May-22,207,May-25,15,Rajarhat
+Dr. Reddy Laboratories,,Gabapentin,Gabapentin,GABA00T,May-22,150,May-26,16,Rajarhat
+Dr. Reddy Laboratories,,Gilenya,Gilenya,GILE00A,Sep-21,100,May-26,14,Rajarhat
+Dr. Reddy Laboratories,,Humira,Humira,HUM00A,Aug-21,50,Sep-29,8,Rajarhat
+Dr. Reddy Laboratories,,Ibuprofen,Ibuprofen,IBU08P,Apr-21,80,May-23,15,Rajarhat
+Dr. Reddy Laboratories,,Imbruvica,Imbruvica,IMB00A,Sep-21,50,May-25,14,Rajarhat
+Dr. Reddy Laboratories,,Invokana,Invokana,INV02A,Jun-22,150,May-25,10,Rajarhat
+Dr. Reddy Laboratories,,Januvia,Januvia,JAN09A,Jun-21,120,May-25,12,Rajarhat
+Glenmark Pharma,,Jardiance,Jardiance,JARD09E,Jun-22,140,May-25,13,Rajarhat
+Glenmark Pharma,,Kevzara,Kevzara,KEV08A,May-22,150,May-25,15,Rajarhat
+Glenmark Pharma,,Lexapro,Lexapro,LEXA00R,May-22,145,May-26,16,Rajarhat
+Glenmark Pharma,,Lisinopril,Lisinopril,LISI00L,Sep-21,207,May-26,14,Rajarhat
+Glenmark Pharma,,Lofexidine,Lofexidine,LOFE009D,Aug-21,150,Sep-29,8,Rajarhat
+Glenmark Pharma,,Lyrica,Lyrica,LYRI09A,Apr-21,100,May-23,15,Rajarhat
+Glenmark Pharma,,Melatonin,Melatonin,MELA00R,Sep-21,50,May-25,14,Rajarhat
+Glenmark Pharma,,Meloxicam,Meloxicam,MELO00R,Jun-22,80,May-25,4,Rajarhat
+Glenmark Pharma,,Metformin,Metformin,MET00I,Jun-21,50,May-25,10,Rajarhat
+Glenmark Pharma,,Naloxone,Naloxone,NALO00N,Jun-22,150,May-25,12,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Naltrexone,Naltrexone,NALT00P,May-22,120,May-25,13,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Omeprazole,Omeprazole,OME08Z,May-22,140,May-26,15,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Onpattro,Onpattro,ONPA89R,Sep-21,150,May-26,16,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Otezla,Otezla,OTE8LA,Aug-21,145,Sep-29,14,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Ozempic,Ozempic,OZE09C,Apr-21,45,May-23,8,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Pantoprazole,Pantoprazole,PAN87P,Sep-21,80,May-25,15,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Prednisone,Prednisone,PRE078S,Jun-22,79,May-25,14,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Probuphine,Probuphine,PROB09,Jun-21,95,May-25,20,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Rybelsus,Rybelsus,RYBE00S,Jun-22,98,May-25,15,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Tramadol,Tramadol,TRA89L,May-22,97,May-25,12,Rajarhat
+Bengal Chemical & Pharmaceutical Ltd,,Trazodone,Trazodone,TRAZ09E,May-22,90,May-26,16,Rajarhat
+Abbott India Ltd,,biotin2,biotin2,d1002,Jun-22,55,May-25,10,Konnagar
+Abbott India Ltd,,calpol,calpol,d20002,Jun-21,150,May-25,12,Konnagar
+Abbott India Ltd,,paracetamol,paracetamo,d1235,Jun-22,60,May-25,13,Konnagar
+Abbott India Ltd,,zincovid,zincovid,d12356,May-22,90,May-25,15,Konnagar
+Abbott India Ltd,,vitaminc,vitaminc,Vt0120,May-22,125,May-26,16,Konnagar
+Abbott India Ltd,,rantac,rantac,VR0012,Sep-21,150,May-26,14,Konnagar
+Abbott India Ltd,,azithral,azithral,Aral005,Aug-21,100,Sep-29,8,Konnagar
+cipla Limited,,omez,omez,mez012,Apr-21,125,May-23,15,Konnagar
+cipla Limited,,multivitamin,multivitamin,mu20ul,Sep-21,90,May-25,14,Konnagar
+Sun Pharma,,Acetaminophen,Acetaminophen,ACE0021,Jun-22,150,May-25,10,Konnagar
+Sun Pharma,,Amitriptyline,Amitriptyline,AMIT0021,Jun-21,100,May-25,12,Konnagar
+Sun Pharma,,Amlodipine,Amlodipine,AMLO0021,Jun-22,50,May-25,13,Konnagar
+Sun Pharma,,Amoxicillin,Amoxicillin,AMO0021,May-22,80,May-25,15,Konnagar
+Sun Pharma,,Ativan,Ativan,ATIVA0021,May-22,50,May-26,16,Konnagar
+Sun Pharma,,Atorvastatin,Atorvastatin,ATORVA02,Sep-21,150,May-26,14,Konnagar
+Sun Pharma,,Benzonatate,Benzonatate,BENZO00C,Aug-21,120,Sep-29,8,Konnagar
+Sun Pharma,,Brilinta,Brilinta,BRILI00A,Apr-21,140,May-23,15,Konnagar
+Sun Pharma,,Bunavail,Bunavail,BUNA00L,Sep-21,150,May-25,14,Konnagar
+Emcure Pharmaceuticals,,Buprenorphine,Buprenorphine,BUPRE00R,Jun-22,145,May-25,10,Konnagar
+Emcure Pharmaceuticals,,Cephalexin,Cephalexin,CEPH00I,Jun-21,207,May-25,12,Konnagar
+Emcure Pharmaceuticals,,Ciprofloxacin,Ciprofloxacin,CIPRO00X,Jun-22,150,May-25,13,Konnagar
+Emcure Pharmaceuticals,,Citalopram,Citalopram,CITAL002,May-22,100,May-25,15,Konnagar
+Emcure Pharmaceuticals,,Clindamycin,Clindamycin,CLIN00Y,May-22,50,May-26,16,Konnagar
+Emcure Pharmaceuticals,,Clonazepam,Clonazepam,CLON00P,Sep-21,80,May-26,14,Konnagar
+Emcure Pharmaceuticals,,Cyclobenzaprine,Cyclobenzaprine,CYCL00Z,Aug-21,50,Sep-29,8,Konnagar
+Emcure Pharmaceuticals,,Cymbalta,Cymbalta,CYMB00A,Apr-21,150,May-23,15,Konnagar
+Emcure Pharmaceuticals,,Doxycycline,Doxycycline,DOX022Y,Sep-21,120,May-25,14,Konnagar
+Emcure Pharmaceuticals,,Dupixent,Dupixent,DUP08IX,Jun-22,140,May-25,10,Konnagar
+Emcure Pharmaceuticals,,Entresto,Entresto,ENT00O,Jun-21,150,May-25,12,Konnagar
+Dr. Reddy Laboratories,,Entyvio,Entyvio,ENTY0I,Jun-22,145,May-25,13,Konnagar
+Dr. Reddy Laboratories,,Farxiga,Farxiga,FARX00A,May-22,207,May-25,15,Konnagar
+Dr. Reddy Laboratories,,Gabapentin,Gabapentin,GABA00T,May-22,150,May-26,16,Konnagar
+Dr. Reddy Laboratories,,Gilenya,Gilenya,GILE00A,Sep-21,100,May-26,14,Konnagar
+Dr. Reddy Laboratories,,Humira,Humira,HUM00A,Aug-21,50,Sep-29,8,Konnagar
+Dr. Reddy Laboratories,,Ibuprofen,Ibuprofen,IBU08P,Apr-21,80,May-23,15,Konnagar
+Dr. Reddy Laboratories,,Imbruvica,Imbruvica,IMB00A,Sep-21,50,May-25,14,Konnagar
+Dr. Reddy Laboratories,,Invokana,Invokana,INV02A,Jun-22,150,May-25,10,Konnagar
+Dr. Reddy Laboratories,,Januvia,Januvia,JAN09A,Jun-21,120,May-25,12,Konnagar
+Glenmark Pharma,,Jardiance,Jardiance,JARD09E,Jun-22,140,May-25,13,Konnagar
+Glenmark Pharma,,Kevzara,Kevzara,KEV08A,May-22,150,May-25,15,Konnagar
+Glenmark Pharma,,Lexapro,Lexapro,LEXA00R,May-22,145,May-26,16,Konnagar
+Glenmark Pharma,,Lisinopril,Lisinopril,LISI00L,Sep-21,207,May-26,14,Konnagar
+Glenmark Pharma,,Lofexidine,Lofexidine,LOFE009D,Aug-21,150,Sep-29,8,Konnagar
+Glenmark Pharma,,Lyrica,Lyrica,LYRI09A,Apr-21,100,May-23,15,Konnagar
+Glenmark Pharma,,Melatonin,Melatonin,MELA00R,Sep-21,50,May-25,14,Konnagar
+Glenmark Pharma,,Meloxicam,Meloxicam,MELO00R,Jun-22,80,May-25,4,Konnagar
+Glenmark Pharma,,Metformin,Metformin,MET00I,Jun-21,50,May-25,10,Konnagar
+Glenmark Pharma,,Naloxone,Naloxone,NALO00N,Jun-22,150,May-25,12,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Naltrexone,Naltrexone,NALT00P,May-22,120,May-25,13,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Omeprazole,Omeprazole,OME08Z,May-22,140,May-26,15,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Onpattro,Onpattro,ONPA89R,Sep-21,150,May-26,16,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Otezla,Otezla,OTE8LA,Aug-21,145,Sep-29,14,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Ozempic,Ozempic,OZE09C,Apr-21,45,May-23,8,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Pantoprazole,Pantoprazole,PAN87P,Sep-21,80,May-25,15,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Prednisone,Prednisone,PRE078S,Jun-22,79,May-25,14,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Probuphine,Probuphine,PROB09,Jun-21,95,May-25,20,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Rybelsus,Rybelsus,RYBE00S,Jun-22,98,May-25,15,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Tramadol,Tramadol,TRA89L,May-22,97,May-25,12,Konnagar
+Bengal Chemical & Pharmaceutical Ltd,,Trazodone,Trazodone,TRAZ09E,May-22,90,May-26,16,Konnagar
